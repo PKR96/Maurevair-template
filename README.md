@@ -4,6 +4,7 @@ This project was done as part of an technical assignment completion for an aviat
 MaurevAir is a new airline company starting business in a few months. The company has approached you to develop their online reservation system.
 
 Documents:
+
 •	Scheduled flights in XML containing flights available (flights.xml). 
 Extract of flight.xml
 Carrier: The organization
